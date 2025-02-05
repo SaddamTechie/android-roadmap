@@ -35,9 +35,8 @@ Before you start coding, you need to set up your tools.
 
 _Awesome youtube videos to understand the android architecture and its components:_
 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/TwXuY2w7Zv0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="300" height="150" src="https://www.youtube.com/embed/8hOzHsz71vE" frameborder="0" allowfullscreen></iframe>
+[Watch Video 1 - Android Architecture](https://www.youtube.com/watch?v=TwXuY2w7Zv0)  
+[Watch Video 2 - Android Components](https://www.youtube.com/watch?v=8hOzHsz71vE)  
 
 #### **Learn Kotlin**
 
