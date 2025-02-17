@@ -36,7 +36,7 @@ Before you start coding, you need to set up your tools.
 _Awesome youtube videos to understand the android architecture and its components:_
 
 [Watch Video 1 - Android Architecture](https://www.youtube.com/watch?v=TwXuY2w7Zv0)  
-[Watch Video 2 - Android Components](https://www.youtube.com/watch?v=8hOzHsz71vE)  
+[Watch Video 2 - Android Components](https://www.youtube.com/watch?v=8hOzHsz71vE)
 
 #### **Learn Kotlin**
 
@@ -49,9 +49,19 @@ _Awesome youtube videos to understand the android architecture and its component
 
 - If you prefer Java, ensure you understand object-oriented programming (OOP) concepts.
 
-#### **Understand XML for UI Design**
+### **Understand android UI Design**
 
-- Android uses XML to define the user interface (UI) of an app.
+Android UI design can be done using XML or JetPack Compose.
+
+#### **Using XML**
+
 - Learn how to create layouts using `LinearLayout`, `RelativeLayout`, `ConstraintLayout`, etc.
+- While XML remains a well-established choice and is still widely used, Jetpack Compose represents a significant leap. Once you get good at Compose, it will supercharge your UI development
 
----
+#### **Jetpack compose**
+
+- Jetpack Compose is a modern toolkit that simplifies and accelerates UI development. Jetpack Compose is considered by some to be the superior option for UI design.
+
+Links to resources:
+[Jetpack Compose basics](https://developer.android.com/codelabs/jetpack-compose-basics)  
+[Material components in Compose](https://developer.android.com/develop/ui/compose/components)
