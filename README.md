@@ -62,6 +62,6 @@ Android UI design can be done using XML or JetPack Compose.
 
 - Jetpack Compose is a modern toolkit that simplifies and accelerates UI development. Jetpack Compose is considered by some to be the superior option for UI design.
 
-Links to resources:
+Links to resources:  
 [Jetpack Compose basics](https://developer.android.com/codelabs/jetpack-compose-basics)  
 [Material components in Compose](https://developer.android.com/develop/ui/compose/components)
